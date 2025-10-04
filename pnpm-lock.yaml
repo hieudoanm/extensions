@@ -33,8 +33,8 @@ importers:
         specifier: 7.3.0
         version: 7.3.0
       '@types/chrome':
-        specifier: 0.1.21
-        version: 0.1.21
+        specifier: 0.1.22
+        version: 0.1.22
       '@types/node':
         specifier: 24.6.2
         version: 24.6.2
@@ -90,8 +90,8 @@ importers:
         specifier: 7.3.0
         version: 7.3.0
       '@types/chrome':
-        specifier: 0.1.21
-        version: 0.1.21
+        specifier: 0.1.22
+        version: 0.1.22
       '@types/firefox-webext-browser':
         specifier: 120.0.5
         version: 120.0.5
@@ -150,8 +150,8 @@ importers:
         specifier: 7.3.0
         version: 7.3.0
       '@types/chrome':
-        specifier: 0.1.21
-        version: 0.1.21
+        specifier: 0.1.22
+        version: 0.1.22
       '@types/node':
         specifier: 24.6.2
         version: 24.6.2
@@ -207,8 +207,8 @@ importers:
         specifier: 7.3.0
         version: 7.3.0
       '@types/chrome':
-        specifier: 0.1.21
-        version: 0.1.21
+        specifier: 0.1.22
+        version: 0.1.22
       '@types/firefox-webext-browser':
         specifier: 120.0.5
         version: 120.0.5
@@ -267,8 +267,8 @@ importers:
         specifier: 7.3.0
         version: 7.3.0
       '@types/chrome':
-        specifier: 0.1.21
-        version: 0.1.21
+        specifier: 0.1.22
+        version: 0.1.22
       '@types/firefox-webext-browser':
         specifier: 120.0.5
         version: 120.0.5
@@ -327,8 +327,8 @@ importers:
         specifier: 7.3.0
         version: 7.3.0
       '@types/chrome':
-        specifier: 0.1.21
-        version: 0.1.21
+        specifier: 0.1.22
+        version: 0.1.22
       '@types/firefox-webext-browser':
         specifier: 120.0.5
         version: 120.0.5
@@ -750,8 +750,8 @@ packages:
     resolution: {integrity: sha512-qaGV9ltJP0EO25YfFUPhxRVK0evXFIAGicsVXuRim4Ed9cjPxYhNnNJ49SFmbeLgtxpslIkX317IgpfcHPVj/A==}
     engines: {node: ^14.17.0 || ^16.13.0 || >=18.0.0}
 
-  '@types/chrome@0.1.21':
-    resolution: {integrity: sha512-ll0HNiSOO6hx8V3s/xd2Rer6Al7+dmcsgcoEfZxQ//MQHTLSOdV6Eklyd4hi8QBosaxGaj4HcP2SZKkpYOFJog==}
+  '@types/chrome@0.1.22':
+    resolution: {integrity: sha512-5uXbw/3V+Pdu9BaoTvudvutITxeIiC0CK5WhQr8lzEhAQ70lTpe5ebnoai9iQrqWjhIa3qynYhKV0NN0MKv4qA==}
 
   '@types/debug@4.1.12':
     resolution: {integrity: sha512-vIChWdVG3LG1SMxEvI/AK+FWJthlrqlTu7fbrlywTkkaONwk/UAGaULXRlf8vkzFBLVm0zkMdCquhL5aOjhXPQ==}
@@ -4863,7 +4863,7 @@ snapshots:
       '@tufjs/canonical-json': 1.0.0
       minimatch: 9.0.5
 
-  '@types/chrome@0.1.21':
+  '@types/chrome@0.1.22':
     dependencies:
       '@types/filesystem': 0.0.36
       '@types/har-format': 1.2.16
